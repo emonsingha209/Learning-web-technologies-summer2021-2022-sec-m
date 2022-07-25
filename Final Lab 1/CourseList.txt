@@ -1,0 +1,3 @@
+Database|Syed Mohammad|Introduction to Database|90 Days|Database.ppxt
+Algorithms|Saleh Uddin|Algorithms|80 Days|Algorithms.ppxt
+Physics|Jabed Ahmed|Physics 1st Paper|40 Days|Physics1st.ppxt

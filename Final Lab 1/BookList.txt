@@ -1,0 +1,3 @@
+The Pragmatic Programmer|Andrew Hunt, David Thomas|Programming|Second (20th Anniversary Edition)|The Pragmatic Programmer.pdf
+A Mathematical Introduction to Logic|Herbert Enderton|Mathematics|Second Edition|A Mathematical Introduction to Logic.pdf
+Refactoring: Improving the Design of Existing Code|Martin Fowler|Programming|Second Edition|Refactoring.pdf
